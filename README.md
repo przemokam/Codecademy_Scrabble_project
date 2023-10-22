@@ -1,5 +1,6 @@
 # Codecademy_Scrabble_project
-Welcome in my wersion of "Scrabble" Codecademy project in Python
+Welcome in my wersion of "Scrabble" Codecademy project in Python.
+
 This Python-based project is designed to compute Scrabble scores for given words, based on the standard Scrabble letter-point assignment. It also includes a function to calculate the total score of words played by different players.
 
 ## Features
